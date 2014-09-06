@@ -1,10 +1,10 @@
 # @cjsx React.DOM
 React = require 'react'
 
-Config = React.createClass
+Contact = React.createClass
   render: ->
     <div>
       Contact
     </div>
 
-module.exports = Config
+module.exports = Contact
