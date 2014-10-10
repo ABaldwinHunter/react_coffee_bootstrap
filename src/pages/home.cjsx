@@ -4,7 +4,7 @@ React = require 'react'
 Home = React.createClass
   render: ->
     <div>
-      Contact
+      Home
     </div>
 
 module.exports = Home

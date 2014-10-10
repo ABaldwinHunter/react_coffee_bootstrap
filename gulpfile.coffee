@@ -50,7 +50,8 @@ webpack = (name, ext, watch) ->
         }
       ]
     plugins: [
-        new rwebpack.IgnorePlugin(/vertx/)
+        new rwebpack.IgnorePlugin(/vertx/),
+        #new rwebpack.optimize.UglifyJsPlugin()
     ]
 
   compiler = rwebpack(options)

@@ -13,13 +13,15 @@
   },
   "dependencies": {
     "react": "^0.11.x",
-    "react-bootstrap": "~0.11.x",
-    "react-router": "~0.7.x"
+    "react-bootstrap": "^0.12.0",
+    "react-router": "~0.7.x",
+    "react-router-bootstrap": "^0.5.0",
+    "reflux": "~0.1.x"
   },
   "devDependencies": {
     "bower": "~1.3.x",
     "coffee-loader": "^0.7.2",
-    "coffee-reactify": "~0.5.x",
+    "coffee-reactify": "^1.0.3",
     "coffee-script": "^1.8.0",
     "gulp": "^3.8.7",
     "gulp-autoprefixer": "0.0.10",
@@ -32,10 +34,10 @@
     "gulp-plumber": "~0.6.x",
     "gulp-rename": "^1.2.0",
     "gulp-util": "~3.0.x",
-    "gulp-webpack": "^0.3.0",
+    "gulp-webpack": "^0.4.1",
     "reactify": "^0.14.0",
     "rimraf": "^2.2.8",
-    "serve-favicon": "^2.1.1",
+    "serve-favicon": "^2.1.5",
     "transform-loader": "^0.2.1",
     "webpack": "~1.4.x"
   }

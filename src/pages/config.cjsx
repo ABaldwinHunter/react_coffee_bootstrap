@@ -4,7 +4,7 @@ React = require 'react'
 Config = React.createClass
   render: ->
     <div>
-      Contact
+      Config
     </div>
 
 module.exports = Config

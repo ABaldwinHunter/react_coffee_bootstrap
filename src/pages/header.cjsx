@@ -14,7 +14,7 @@ Header = React.createClass
           <NavItemLink key={1} to="contact">Contact</NavItemLink>
         </Nav>
         <Nav pullRight>
-          <NavItemLink key={2} to="config">config</NavItemLink>
+          <NavItemLink key={3} to="config">config</NavItemLink>
         </Nav>
       </Navbar>
     </div>
