@@ -7,5 +7,6 @@ engines:
 ratings:
   paths:
   - "**.coffee"
+  - "**.cjsx"
 exclude_paths:
 - vendor/
